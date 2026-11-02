@@ -2,6 +2,8 @@
 
 DI (Decentralized Intelligence) is building a user-owned financial Agent network. Built on a Crypto-native Model, DI connects data discovery, event research and quantitative products. Its development path takes users from individual tools to their own financial Agents, and then to collaboration across an interconnected network.
 
+DI’s research and product scope covers US equity and crypto markets, with capabilities opening according to the product roadmap.
+
 ## Starting with products
 
 DI has three connected product capabilities:

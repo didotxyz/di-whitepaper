@@ -6,7 +6,7 @@ DI’s architecture connects a common model foundation, three product capabiliti
 
 ## One foundation, three products
 
-The Data Dashboard, Event Engine and Quant Platform perform different work while sharing a crypto market data and model foundation. Users can access one capability independently or combine several according to the task.
+The Data Dashboard, Event Engine and Quant Platform perform different work while sharing a data and model foundation for US equity and crypto markets. Users can access one capability independently or combine several according to the task.
 
 The dashboard can be used independently for discovery. Event Engine can start with a question entered directly by a user. The Quant Platform provides both DI products and tools for users to create and publish strategy products.
 

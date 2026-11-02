@@ -58,7 +58,13 @@ for (const document of documents) {
 await cp(path.join(ROOT, "assets"), path.join(DIST, "content", "assets"), { recursive: true })
 await cp(path.join(ROOT, "assets", "favicon.png"), path.join(DIST, "favicon.png"))
 for (const language of LANGUAGES) {
-  await cp(path.join(ROOT, language, "assets"), path.join(DIST, "content", language, "assets"), { recursive: true })
+  const target = path.join(DIST, "content", language, "assets")
+  await mkdir(target, { recursive: true })
+  for (const doc of documents.filter((item) => item.language === language)) {
+    for (const match of doc.markdown.matchAll(/!\[[^\]]*\]\(assets\/([\w.-]+)\)/g)) {
+      await cp(path.join(ROOT, language, "assets", match[1]), path.join(target, match[1]))
+    }
+  }
 }
 await cp(path.join(ROOT, "src", "site.css"), path.join(DIST, "site.css"))
 await cp(path.join(ROOT, "src", "site.js"), path.join(DIST, "site.js"))

@@ -20,6 +20,6 @@ Computing resources support data processing, model calls, multi-perspective rese
 
 ## Extension directions
 
-DI plans to extend access for developers and teams through compute service quotas, APIs and enterprise services.
+DI plans to extend access for developers and teams through compute service quotas, professional data APIs and institutional services.
 
 These extensions will build on the Data Dashboard, Event Engine and Quant Platform, supporting subsequent Personal Agent and network development.

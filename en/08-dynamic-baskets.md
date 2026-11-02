@@ -19,7 +19,3 @@ Each product’s strategy rules determine its rebalancing conditions and frequen
 Users can follow product performance, rebalance history and risk information over time. Results need to be assessed alongside the strategy rules, asset universe and market environment.
 
 Meme assets can experience substantial volatility, liquidity changes and concentration risk. An index-style structure does not provide principal protection or a return guarantee.
-
-## Offering capacity
-
-**DI special quant products are capped at US$1 million per offering.** Capacity for user-created products follows each product’s rules.

@@ -24,7 +24,7 @@ Tasks involving private information or asset actions are limited by user authori
 
 On-chain records can involve delays, fees and network failures. Version proof supports record verification; it does not guarantee source truth, prediction accuracy or reward eligibility.
 
-DI Token is exposed to market price and liquidity risks. Revenue and buybacks depend on actual business conditions and do not establish a fixed return or price guarantee.
+DI Token is exposed to market price and liquidity risks. Business profits, buybacks and burns depend on actual business conditions and do not establish a fixed return or price guarantee.
 
 ## Document and product scope
 

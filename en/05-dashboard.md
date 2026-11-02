@@ -2,6 +2,8 @@
 
 The Data Dashboard is DI’s entry point for discovery and ongoing monitoring. It brings market data, media coverage and social perspectives into one research environment, helping users identify assets and events worth following and examine the underlying material.
 
+Holding $DI provides access to the basic dashboard under the applicable product rules. DI’s research scope covers US equity and crypto markets. Professional data APIs and institutional services may have separate service fees.
+
 ## Discovery and filtering
 
 Users can browse by asset, market change or research topic, narrow the scope with filters and add relevant subjects to watchlists. The dashboard reduces the work of finding and organizing material so that users can identify questions that deserve further research.

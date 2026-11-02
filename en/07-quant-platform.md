@@ -20,7 +20,7 @@ Creators present their products through strategy descriptions, applicable condit
 
 The marketplace brings together products from DI and other creators. Users can review strategy descriptions, performance and risks before choosing a product. The platform’s value comes from its own products and from enabling more strategies to become usable products.
 
-The platform receives an agreed share of quant product profits. Participation, fees and usage conditions depend on the individual product.
+Holding $DI provides access to selected in-house strategies under the applicable product rules; other strategies may require a separate payment. The platform receives an agreed share of actually distributable net profit from quant products. During the first phase, users retain custody of their funds. Participation, fees and usage conditions depend on the individual product.
 
 ## Connecting research and strategies
 

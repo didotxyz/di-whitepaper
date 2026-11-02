@@ -1,21 +1,23 @@
 # 14. Business Model
 
-DI’s business model generates service revenue through product usage and adds revenue through quant product profit sharing. A portion of business revenue funds DI buybacks.
+DI plans to earn revenue from paid product services and an agreed share of actually distributable net profit from quant products. A portion of DI’s own business profits is planned to fund $DI buybacks and burns.
 
-## Where revenue comes from
+## Sources of business revenue
 
-Event Engine simulations, Personal Agent tasks and tool calls, and network services and collaborative tasks create service-payment use cases. These revenue sources develop as the corresponding products and service stages become available.
+Holding $DI provides access to the basic Data Dashboard and selected in-house strategies under the applicable product rules. Paid strategies, Event Engine simulations, professional data APIs and institutional services create additional service-revenue sources. Personal Agent tasks, tool calls and network collaboration add payment use cases as their respective stages become available.
 
-Quant products provide another source: the platform receives an agreed share of product profits. Profit sharing depends on product performance and the applicable agreement.
+Quant products may generate revenue for DI through an agreed share of actually distributable net profit. The applicable agreement defines the calculation and distribution; participation does not guarantee a profit. During the first phase, users retain custody of their funds.
 
-Holding DI provides dashboard access; business revenue comes from service payments and quant product profit sharing.
+DI’s research and product scope covers US equity and crypto markets. Availability depends on the product stage and applicable product rules.
 
-## Product usage and buybacks
+## Business profits, buybacks and burns
 
-![Service fees and quant profit sharing generate revenue; a portion funds DI buybacks](assets/di_business_revenue_en_v3.png)
+![Paid services and quant net-profit sharing support DI business profits; a portion is planned for DI buybacks and burns, excluding user funds and returns payable](assets/di_business_profit_en_v4.svg)
 
-This mechanism connects demand for products with business revenue. Continued usefulness, users’ willingness to use services and the ability of quant products to generate shareable profits affect that revenue.
+Planned buybacks and burns are funded from a portion of DI’s own business profits, including profits from its quant business and other products such as professional data APIs. User principal and returns payable to users are excluded. Payment for a service does not itself burn $DI.
 
-## Revenue use cases across product stages
+The amount available depends on actual business performance. This plan does not establish a fixed execution schedule, burn ratio, token price target or return guarantee.
 
-DI has completed product development and is preparing for launch. Simulations and quant products form the initial business foundation; Personal Agents and the network will add payment use cases for tasks, tool calls and collaborative services.
+## Development across product stages
+
+DI has completed product development and is preparing for launch. Paid services and quant products form the initial business foundation; Personal Agents and the network expand the service model in later roadmap stages.
