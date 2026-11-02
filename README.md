@@ -30,4 +30,4 @@ DI（Decentralized Intelligence）正在构建用户拥有的金融智能网络�
 
 [Website](https://di.xyz/) · [Whitepaper](https://whitepaper.di.xyz/) · [X](https://x.com/Didotxyz_)
 
-Copyright (c) 2026 DI Foundation. All rights reserved.
+Copyright (c) 2026 Decentralized Intelligence LTD. All rights reserved.

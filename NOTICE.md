@@ -1,6 +1,6 @@
 # Content Notice
 
-Copyright (c) 2026 DI Foundation. All rights reserved.
+Copyright (c) 2026 Decentralized Intelligence LTD. All rights reserved.
 
 The text, diagrams, brand assets, and other materials in this repository are
 published for transparency and public reference. Publication of the source
