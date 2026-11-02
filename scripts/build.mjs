@@ -166,7 +166,7 @@ function renderDocument(document, entries) {
     <main class="reader-main" id="document">
       ${pageBody}
       ${pagination(document, copy)}
-      <footer class="document-footer"><span>© 2026 DI Foundation</span><span>${escapeHtml(copy.version)}</span></footer>
+      <footer class="document-footer"><span>© 2026 Decentralized Intelligence LTD</span><span>${escapeHtml(copy.version)}</span></footer>
     </main>
 
     <aside class="page-outline" aria-label="${escapeHtml(copy.onThisPage)}">
