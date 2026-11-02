@@ -24,4 +24,4 @@ Holding $DI provides access to selected in-house strategies under the applicable
 
 ## Connecting research and strategies
 
-The Data Dashboard supplies market leads. Event Engine develops scenarios and judgment conditions. Quant tools help users examine whether those conditions can become strategy rules. Event research and strategy results can inform each other, but a research conclusion is not automatically an executable strategy.
+A user starts with a market question. Specialist Agents compare their findings, and the report sets out where they agree, where they disagree and what evidence supports each judgment. In the planned workflow, the Quant Center automatically screens only the findings the user has authorized for quantitative research. It records which judgments proceed to backtesting and, after validation, which a strategy adopts. A finding can stop at either step. Research authorization does not place trades.
