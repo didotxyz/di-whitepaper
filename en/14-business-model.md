@@ -1,4 +1,4 @@
-# 14. Business Model
+# 13. Business Model
 
 DI plans to earn revenue from paid product services and an agreed share of actually distributable net profit from quant products. A portion of DI’s own business profits is planned to fund $DI buybacks and burns.
 

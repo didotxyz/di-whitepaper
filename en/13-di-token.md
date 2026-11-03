@@ -1,4 +1,4 @@
-# 13. DI Token Utility
+# 12. DI Token Utility
 
 $DI has three uses in the product roadmap.
 

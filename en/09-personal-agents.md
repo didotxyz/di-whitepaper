@@ -1,4 +1,4 @@
-# 9. Personal Agents
+# 8. Personal Agents
 
 Personal Agents are DI’s next stage after product launch. They will connect data, simulation and quant capabilities around a user’s ongoing tasks, allowing users to build and configure their own financial Agent teams.
 

@@ -1,4 +1,4 @@
-# 11. Contributions, Receipts & Proof
+# 10. Contributions, Receipts & Proof
 
 DI treats research content, process records and on-chain proof as distinct elements. This allows users to review research and, with consent, create a verifiable record for a specific version without publishing all private discussion.
 

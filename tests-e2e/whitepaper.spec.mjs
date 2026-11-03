@@ -29,7 +29,7 @@ test("mobile landing title is restrained and version starts below the cover", as
 test("English document navigation, anchors, search, and language pairing work", async ({ page }) => {
   await page.goto("/")
   await expect(page.getByRole("heading", { level: 1, name: "DI Whitepaper (English Version)" })).toBeVisible()
-  await expect(page.locator(".chapter-grid a")).toHaveCount(17)
+  await expect(page.locator(".chapter-grid a")).toHaveCount(16)
   await expect(page.locator(".header-nav")).toHaveCount(0)
   await expect(page.locator("[data-edge-waves]")).toBeVisible()
 

@@ -1,4 +1,4 @@
-# 17. Risks & Usage Notice
+# 16. Risks & Usage Notice
 
 DI provides information, research and product tools. Users need to assess their suitability using the sources, product rules and their own requirements. AI-generated content, quant strategies and Agent collaboration can produce errors or losses.
 
@@ -12,7 +12,7 @@ Citations and process receipts support review but do not replace assessment of o
 
 A strategy can perform well on historical data and fail in later markets. Liquidity, transaction costs, asset concentration and extreme volatility can affect actual results.
 
-The Meme assets in Dynamic Baskets can carry substantial price and liquidity risk. Periodic rebalancing, index-style construction and offering caps guarantee neither returns nor principal safety. User-created products require separate assessment of their rules, results and risks.
+Quant strategies do not guarantee returns or principal safety. User-created products require separate assessment of their rules, results and risks.
 
 ## Agents and external capabilities
 

@@ -1,4 +1,4 @@
-# 10. Financial Agent Network
+# 9. Financial Agent Network
 
 DI’s financial Agent network connects Agents serving different users. Its value comes from information exchange, capability calls and collaborative tasks, giving each user’s Agent team access to a broader range of research and strategies.
 

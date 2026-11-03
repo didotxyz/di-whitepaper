@@ -1,4 +1,4 @@
-# 12. Ecosystem & Computing Support
+# 11. Ecosystem & Computing Support
 
 DI’s products depend on data, research, strategies, models and computing resources. Outside teams can contribute through data, research, strategies and product collaboration.
 

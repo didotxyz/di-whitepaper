@@ -4,7 +4,7 @@ DI’s Quant Platform connects strategy research, product creation and product u
 
 ## DI quant products
 
-Users can examine a DI product’s strategy, performance and risks before deciding whether it fits their needs. Dynamic Baskets are one product category.
+Users can examine a DI product’s strategy, performance and risks before deciding whether it fits their needs.
 
 Product information covers strategy objectives, rules and performance, allowing users to assess a product in its market context.
 

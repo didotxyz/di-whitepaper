@@ -26,9 +26,9 @@ test("every page declares the official DI favicon and the fallback serves the sa
   assert.equal(icon.readUInt32BE(20), 512)
 })
 
-test("both languages retain the v2 landing page and all 17 chapters", () => {
-  assert.equal(summaries[0].length, 18)
-  assert.equal(summaries[1].length, 18)
+test("both languages retain the v2 landing page and all 16 chapters", () => {
+  assert.equal(summaries[0].length, 17)
+  assert.equal(summaries[1].length, 17)
   assert.equal(summaries[0][0].relativeFile, "README.md")
   assert.equal(summaries[1][0].relativeFile, "README.md")
 })
@@ -44,9 +44,9 @@ test("every summary source and generated route exists", async () => {
 
 test("generated search index includes every source document and both languages", async () => {
   const index = JSON.parse(await readFile(path.join(DIST, "search-index.json"), "utf8"))
-  assert.equal(index.length, 36)
-  assert.equal(index.filter((entry) => entry.language === "en").length, 18)
-  assert.equal(index.filter((entry) => entry.language === "cn").length, 18)
+  assert.equal(index.length, 34)
+  assert.equal(index.filter((entry) => entry.language === "en").length, 17)
+  assert.equal(index.filter((entry) => entry.language === "cn").length, 17)
   assert.ok(index.some((entry) => entry.route === "/en/17-risks/"))
   assert.ok(index.some((entry) => entry.route === "/zh/17-risks/"))
 })
@@ -90,7 +90,7 @@ test("v2 metadata and all new bilingual illustrations reach generated pages", as
         assert.ok(html.includes(`href="${entry.route}#contents"`))
       }
     }
-    assert.equal(illustrations, 8)
+    assert.equal(illustrations, 7)
   }
 })
 
